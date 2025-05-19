@@ -1,1 +1,1 @@
-# PLAYDATE-SUPABASE-v3
+# supabase vite zlý pokus
